@@ -11,13 +11,12 @@ and chasing elegant architectures.
 
 <br>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<img src="https://img.shields.io/badge/FOCUS-Laravel_Development-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ACADEMIC-Informatics_Student-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN_TO-Collaboration-success?style=for-the-badge" />
 
 <br><br>
+
 <img src="./b8999ca8ced4262ce689ff4e899b16b2.jpg">
 
 </div>

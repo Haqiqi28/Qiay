@@ -34,7 +34,7 @@
 
 ## Front-End
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
@@ -42,7 +42,7 @@
 
 ## Back-End
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=php,laravel" />
 
@@ -50,7 +50,7 @@
 
 ## Database
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
@@ -58,7 +58,7 @@
 
 ## Tools & Environment
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 

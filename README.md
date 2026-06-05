@@ -66,19 +66,6 @@
 
 ---
 
-## Current Projects
-
-<div align="center">
-
-| Project | Description |
-|----------|-------------|
-| 📚 Academic Information System | Student, lecturer, and academic management |
-| 🏪 Marketplace Laravel | Marketplace platform built with Laravel |
-| 📖 Library Information System | Library and book inventory management |
-
-</div>
-
----
 
 ## GitHub Statistics
 

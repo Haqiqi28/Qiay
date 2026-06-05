@@ -21,7 +21,8 @@ Building systems, exploring stories, and chasing elegant architectures.
 </div>
 
 ---
-
+<div align="center">
+  
 ## About Me
 
 🎓 Informatics Student
@@ -33,34 +34,43 @@ Building systems, exploring stories, and chasing elegant architectures.
 🚀 Interested in Software Architecture, System Analysis, and Product Development
 
 ---
+</div>
 
-## Front-End
 
-<div>
+<div align="center">
+  
+## Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+### Design
+
+
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
 
 </div>
 
-## Back-End
 
-<div>
+<div align="center">
+
+### Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vue" />
+
+<br>
+
+### Back-End
 
 <img src="https://skillicons.dev/icons?i=php,laravel" />
 
-</div>
+<br>
 
-## Database
+### Database
 
-<div>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<br>
 
-</div>
-
-## Tools & Environment
-
-<div>
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 

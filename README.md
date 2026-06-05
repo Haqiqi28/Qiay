@@ -1,16 +1,27 @@
-# Hi, I'm Qiay 👋
+# Hi, I'm Haqiqi
 
 🎓 Informatics Student
 
-💻 Content Creator
+💻 Laravel Developer
+
+
+---
 
 ## About Me
 
-I'm currently building:
+Currently working on:
 
 - Academic Information System
 - Library Management System
-- Laravel Projects
+- Marketplace Web Application
+
+Interested in:
+
+- Software Engineering
+- System Analysis
+- Web Development
+
+---
 
 ## Tech Stack
 
@@ -20,16 +31,21 @@ I'm currently building:
 - Bootstrap
 - JavaScript
 
-## Learning
+---
 
-- Software Architecture
-- UI/UX Design
-- System Analysis
+## Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haqiqi28&show_icons=true)
+### Marketplace Laravel
+E-commerce marketplace built with Laravel.
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### Academic Information System
+Student and academic management system.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### Library Information System
+Book lending and inventory management.
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Haqiqi28&show_icons=true)

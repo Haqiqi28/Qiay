@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/@hqiay-7f1d1d?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://tiktok.com/haqiqiazz">
-  <img src="https://img.shields.io/badge/@haqiqiazz-7f1d1d?style=for-the-badge&logo=tiktok&logoColor=white" />
+<a href="https://github.com/Haqiqi28">
+  <img src="https://img.shields.io/badge/@Haqiqi28-7f1d1d?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>

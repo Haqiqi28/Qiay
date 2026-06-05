@@ -25,3 +25,5 @@ I'm currently building:
 - Software Architecture
 - UI/UX Design
 - System Analysis
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haqiqi28&show_icons=true)

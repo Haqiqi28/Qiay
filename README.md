@@ -13,7 +13,7 @@ and chasing elegant architectures.
 
 <img src="https://img.shields.io/badge/FOCUS-Laravel_Development-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ACADEMIC-Informatics_Student-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OPEN_TO-Collaboration-success?style=for-the-badge" />
+
 
 <br><br>
 

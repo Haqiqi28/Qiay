@@ -2,9 +2,11 @@
 
 # Haqiqi Alazazi
 
+*A place where systems, stories, and ideas are built.*
 ### Laravel Developer & Informatics Student
 
-> Building systems, exploring stories, and chasing elegant architectures.
+
+Building systems, exploring stories, and chasing elegant architectures.
 
 <br>
 
@@ -66,23 +68,10 @@
 
 ---
 
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Haqiqi28&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haqiqi28&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 ### "Rumah Fata Morgana"
 
-*A place where systems, stories, and ideas are built.*
+
 
 </div>

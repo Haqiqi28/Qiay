@@ -33,46 +33,11 @@ and chasing elegant architectures.
 📖 Library Information System
 
 </div>
----
 
-## About Me
-
-Currently working on:
-
-- Academic Information System
-- Library Management System
-- Marketplace Web Application
-
-Interested in:
-
-- Software Engineering
-- System Analysis
-- Web Development
-
----
 
 ## Tech Stack
 
-- PHP
-- Laravel
-- MySQL
-- Bootstrap
-- JavaScript
-
----
-
-## Featured Projects
-
-### Marketplace Laravel
-E-commerce marketplace built with Laravel.
-
-### Academic Information System
-Student and academic management system.
-
-### Library Information System
-Book lending and inventory management.
-
----
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,bootstrap,js,html,css,vscode,git" />
 
 ## GitHub Stats
 

@@ -22,6 +22,13 @@ and chasing elegant architectures.
 </div>
 
 
+
+
+
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,bootstrap,js,html,css,vscode,git" />
+
 <div align="center">
 
 ### Current Projects
@@ -33,11 +40,6 @@ and chasing elegant architectures.
 📖 Library Information System
 
 </div>
-
-
-## Tech Stack
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,bootstrap,js,html,css,vscode,git" />
 
 ## GitHub Stats
 

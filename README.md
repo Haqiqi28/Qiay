@@ -1,7 +1,7 @@
 # Selamat Datang di Rumah Fata Morgana
 
 
-![Banner](banner.png)
+![Banner](b8999ca8ced4262ce689ff4e899b16b2.jpg)
 
 🎓 Informatics Student
 

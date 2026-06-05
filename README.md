@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="./b8999ca8ced4262ce689ff4e899b16b2.jpg" width="120">
+<img src="./b8999ca8ced4262ce689ff4e899b16b2.jpg" width="500">
 
 </div>
 

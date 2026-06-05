@@ -1,18 +1,31 @@
 <div align="center">
 
-# Haqiqi Alazazi
+<h1>Haqiqi Al Azazi</h1>
+
+<div align="center">
+
+<a href="https://instagram.com/hqiay">
+  <img src="https://img.shields.io/badge/@hqiay-7f1d1d?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://tiktok.com/haqiqiazz">
+  <img src="https://img.shields.io/badge/@haqiqiazz-7f1d1d?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
+</div>
+<br>
 
 *A place where systems, stories, and ideas are built.*
-### Laravel Developer & Informatics Student
+
+<h3>Laravel Developer & Informatics Student</h3> 
 
 
 Building systems, exploring stories, and chasing elegant architectures.
 
 <br>
 
-<img src="https://img.shields.io/badge/FOCUS-Laravel_Development-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ACADEMIC-Informatics_Student-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/INTEREST-Software_Architecture-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-Laravel_Development-7f1d1d?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/ACADEMIC-Informatics_Student-7f1d1d?style=for-the-badge" />
 
 <br><br>
 
@@ -20,10 +33,10 @@ Building systems, exploring stories, and chasing elegant architectures.
 
 </div>
 
----
+<br>
 <div align="center">
   
-## About Me
+<h1>About Me</h1> 
 
 🎓 Informatics Student
 
@@ -33,12 +46,12 @@ Building systems, exploring stories, and chasing elegant architectures.
 
 🚀 Interested in Software Architecture, System Analysis, and Product Development
 
----
 </div>
 
+<br>
 
 <div align="center">
-  
+
 ## Skills
 
 ### Design
@@ -75,13 +88,13 @@ Building systems, exploring stories, and chasing elegant architectures.
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
-
----
+<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 <div align="center">
 
-### "Rumah Fata Morgana"
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
 
 </div>

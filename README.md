@@ -1,4 +1,7 @@
-# Hi, I'm Haqiqi
+# Selamat Datang di Rumah Fata Morgana
+
+
+![Banner](banner.png)
 
 🎓 Informatics Student
 
